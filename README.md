@@ -1,5 +1,7 @@
 # KobraDoom — Anycubic Kobra 2 Pro
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQZF1pdODIo?si=75__o_qgdN5cou42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 A fork of the [milkpirate/kobradoom](https://github.com/milkpirate/kobradoom) project, specially adapted for the **Anycubic Kobra 2 Pro** 3D printer.
 
 ### Important note from the author
