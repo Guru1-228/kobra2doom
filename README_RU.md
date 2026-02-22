@@ -1,5 +1,7 @@
 # KobraDoom — Anycubic Kobra 2 Pro
 
+https://youtu.be/vQZF1pdODIo?si=UrtsiVXG3oMMBpgu
+
 Форк проекта [milkpirate/kobradoom](https://github.com/milkpirate/kobradoom), адаптированный специально для 3D-принтера **Anycubic Kobra 2 Pro**.
 
 ### Важное отступление от автора
